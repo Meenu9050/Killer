@@ -1,0 +1,29 @@
+{
+  "name": "Killer",
+  "description": "Telegram Bot Killer deploy on Heroku",
+  "repository": "https://github.com/Meenu9050/Killer",
+  "keywords": ["telegram", "bot", "python", "heroku"],
+  "env": {
+    "API_ID": {
+      "description": "Your Telegram API ID",
+      "required": true
+    },
+    "API_HASH": {
+      "description": "Your Telegram API Hash",
+      "required": true
+    },
+    "BOT_TOKEN": {
+      "description": "Your Telegram Bot Token",
+      "required": true
+    },
+    "MONGO_URI": {
+      "description": "MongoDB connection URI",
+      "required": false
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
+  ]
+}
