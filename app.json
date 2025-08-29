@@ -5,19 +5,27 @@
   "keywords": ["telegram", "bot", "python", "heroku"],
   "env": {
     "API_ID": {
-      "description": "Your Telegram API ID",
+      "description": "Your Telegram API ID from my.telegram.org",
       "required": true
     },
     "API_HASH": {
-      "description": "Your Telegram API Hash",
+      "description": "Your Telegram API Hash from my.telegram.org",
       "required": true
     },
     "BOT_TOKEN": {
-      "description": "Your Telegram Bot Token",
+      "description": "Your Telegram Bot Token from @BotFather",
+      "required": true
+    },
+    "STRING_SESSION": {
+      "description": "Pyrogram/Telethon string session",
+      "required": true
+    },
+    "LOGGER_ID": {
+      "description": "Telegram Chat ID where logs will be sent (Group/User ID)",
       "required": true
     },
     "MONGO_URI": {
-      "description": "MongoDB connection URI",
+      "description": "MongoDB connection URI (optional)",
       "required": false
     }
   },
