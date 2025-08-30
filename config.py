@@ -34,7 +34,7 @@ HEROKU_APP_NAME = None
 
 HEROKU_API_KEY = None
 
-UPSTREAM_REPO = "https://github.com/"
+UPSTREAM_REPO = "https://github.com/Meenu9050/Killer"
 
 UPSTREAM_BRANCH = "master"
 
