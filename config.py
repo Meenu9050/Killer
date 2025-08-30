@@ -8,41 +8,41 @@ load_dotenv()
 API_ID = 28976608
 
 API_HASH = "1e200bdfdcc3cc816f9f6a62e6e6f4a0"
-BOT_TOKEN = "7974545180:AAEUgGbrFGtsCjBlJ9iUaT6bclCU5nRiKFs"
+BOT_TOKEN = ""
 BOT_ID = 7825870013
 
-BOT_USERNAME = "@Music_Silent_bot"
+BOT_USERNAME = "@Infinity_powerfull_bot""
 
-OWNER_USERNAME = "@finalbossrock"
+OWNER_USERNAME = "@DarkGamer7t2rI""
 
-BOT_NAME = "━──『 🎶ＳɪʟᴇɴᴛＭᴜꜱɪᴄＢᴏᴛ🎶 』──━"
+BOT_NAME = "━──『 🎶Infinity x music🎶 』──━"
 
-ASSUSERNAME = "@SilentAssistant"
+ASSUSERNAME = "Assistant"
 
 MONGO_DB_URI = "mongodb+srv://Sarkar123:GAUTAMMISHRA@sarkar.1uiwqkd.mongodb.net/?retryWrites=true&w=majority"
 DURATION_LIMIT_MIN = 500000
 
-LOGGER_ID =  "-1003063952141"
+LOGGER_ID =  "-1002843572899"
 
-DISASTER_LOG =  "-1003063952141"
+DISASTER_LOG =  "-1002843572899"
 
-OWNER_ID = 5016636419
+OWNER_ID = 7487670897
 
-SPECIAL_USER = 5016636419
+SPECIAL_USER = 8250510325
 
 HEROKU_APP_NAME = None
 
 HEROKU_API_KEY = None
 
-UPSTREAM_REPO = "https://github.com/Royalroman123/Princereop.git"
+UPSTREAM_REPO = "https://github.com/"
 
 UPSTREAM_BRANCH = "master"
 
-GIT_TOKEN = "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"
+GIT_TOKEN = ""
 
-SUPPORT_CHANNEL = "https://t.me/Silent_world_chatting"
+SUPPORT_CHANNEL = "https://t.me/dark_x_knight_musiczz_support/112"
 
-SUPPORT_CHAT = "https://t.me/Global_alley"
+SUPPORT_CHAT = "https://t.me/+zyocLmf3JvIwOWY9"
 
 AUTO_LEAVING_ASSISTANT = False
 AUTO_LEAVE_ASSISTANT_TIME = 9000
@@ -62,7 +62,7 @@ SONG_DOWNLOAD_DURATION_LIMIT = 9999999
 TG_AUDIO_FILESIZE_LIMIT = 2147483648
 TG_VIDEO_FILESIZE_LIMIT = 2147483648
 
-STRING1 = getenv("STRING1", "BQG6JeAADncqK0MGZe4Ee5pBb8xu1PKT9mWfwLv4_5vHMdukrTlcit3r5fj8LSuPyIT5jIoGaFwhb-8aftVSf2McdDjI1G-5yGzlPjhEifzFBV2KsMlELF2mbHk08gk5Nd6Qi-cYZ4GEta7eV4Z3sY4WVobo7hpCsSNqJX3OVgHBuPSp7memlYUa6w1JuD0-rllqHm1pwcxUMvS-e2k_kbR8hEQNhG_ZnTA5RKhwQuKn8EDMiVM3qVrn9FvftBUGW7GyA01TeUkCJzAK4YaANT2VgtYYU8PV2b5Mh8P2pj1FafPYsmwVHJKtDqtebLyYzHr4i1o_eOC1iDtEUlrUd1fi3ZwMrAAAAAHSdUy9AA")
+STRING1 = getenv("STRING1", "")
 STRING2 = getenv("STRING2", None)
 STRING3 = getenv("STRING3", None)
 STRING4 = getenv("STRING4", None)
@@ -79,7 +79,7 @@ votemode = {}
 autoclean = []
 confirmer = {}
 
-START_IMG_URL =  "https://files.catbox.moe/iyr906.jpg"
+START_IMG_URL =  "https://graph.org/file/a2fcf8b4ef4087473818c-f812627a9ef012cff5.jpg"
 PLAYLIST_IMG_URL = "https://files.catbox.moe/ppifj3.jpg"
 STATS_IMG_URL = "https://files.catbox.moe/iyr906.jpg"
 TELEGRAM_AUDIO_URL = "https://files.catbox.moe/ppifj3.jpg"
