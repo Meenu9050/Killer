@@ -11,9 +11,9 @@ API_HASH = "177973c53d36a5db484cabfce1b9bf2f"
 BOT_TOKEN = ""
 BOT_ID = 7825870013
 
-BOT_USERNAME = "@Infinity_powerfull_bot""
+BOT_USERNAME = "Infinity_powerfull_bot""
 
-OWNER_USERNAME = "@DarkGamer7t2rI""
+OWNER_USERNAME = "DarkGamer7t2rI""
 
 BOT_NAME = "━──『 🎶Infinity x music🎶 』──━"
 
